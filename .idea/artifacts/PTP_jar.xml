@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PTP:jar">
+    <output-path>$USER_HOME$/Desktop/Java/Spigot/Eklentiler</output-path>
+    <root id="archive" name="PTP.jar">
+      <element id="module-output" name="PTP" />
+    </root>
+  </artifact>
+</component>

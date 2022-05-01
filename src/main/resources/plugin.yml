@@ -1,0 +1,29 @@
+name: PTP
+version: 1.0
+api-version: 1.13
+website: mc-marketi.com
+author: thelegend
+main: tr.thelegend.ptp.PTP
+commands:
+  ptp:
+    description: Main command
+    aliases:
+      - blockteleporter
+      - pteleporter
+      - bteleporter
+permissions:
+  ptp.create:
+    description: Perm to create teleporters
+    default: op
+  ptp.setlocation:
+    description: Perm to set location for a teleporter
+    default: op
+  ptp.delete:
+    description: Perm to delete a teleporter
+    default: op
+  ptp.setsound:
+    description: Perm to set a sound to a teleporter
+    default: op
+  ptp.setpermission:
+    description: Perm to set permission for a teleporter
+    default: op
