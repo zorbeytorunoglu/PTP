@@ -9,6 +9,14 @@
 - /ptp setpermission <name> <permission> - Sets a permission to use a teleporter. You can use 'none' to disable.
 - /ptp setsound <name> <sound> - Sets a sound for a teleporter.
 
+## Permissions
+
+- ptp.create
+- ptp.delete
+- ptp.setlocation
+- ptp.setsound
+- ptp.setpermission
+
 ## Installation
 
 PTP requires Java 8.
